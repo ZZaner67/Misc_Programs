@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\zaneb\source\repos\Le Counting\Le Counting\Source.cpp(25,7): warning C4101: 'letter': unreferenced local variable
+  Le Counting.vcxproj -> C:\Users\zaneb\source\repos\Le Counting\Debug\Le Counting.exe

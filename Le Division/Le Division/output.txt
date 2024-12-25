@@ -1,0 +1,29 @@
+Student: Zane Brown 
+
+The division point is -1, -10
+     3     5   Kiowa
+   107   444   Kiowa
+   107   -10   Between Kiowa and Tepee
+   -33    -4   Comanche
+     0   -10   Between Kiowa and Tepee
+   -44   -10   Between Comanche and Nocona
+    -1   -10   Division Point
+    -1   -80   Between Nocona and Tepee
+    -1    85   Between Comanche and Kiowa
+    54   -23   Tepee
+    54   908   Kiowa
+   -34     0   Comanche
+    -4    -1   Comanche
+    34    -8   Kiowa
+    -1     8   Between Comanche and Kiowa
+   -12   -10   Between Comanche and Nocona
+     0    17   Kiowa
+    -1  -200   Between Nocona and Tepee
+    12    -6   Kiowa
+  -500   309   Comanche
+     7    89   Kiowa
+   -34   -34   Nocona
+    10   -10   Between Kiowa and Tepee
+    -2   -11   Nocona
+    -1    -5   Between Comanche and Kiowa
+    -1   -10   Division Point
