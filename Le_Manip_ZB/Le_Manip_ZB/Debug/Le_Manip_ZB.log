@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\zaneb\source\repos\Le_Manip_ZB\Le_Manip_ZB\Source.cpp(17,27): warning C4101: 'le_max': unreferenced local variable
+C:\Users\zaneb\source\repos\Le_Manip_ZB\Le_Manip_ZB\Source.cpp(22,9): warning C4101: 'le_pic': unreferenced local variable
+C:\Users\zaneb\source\repos\Le_Manip_ZB\Le_Manip_ZB\Source.cpp(27,19): warning C4101: 'eck': unreferenced local variable
+  Le_Manip_ZB.vcxproj -> C:\Users\zaneb\source\repos\Le_Manip_ZB\Debug\Le_Manip_ZB.exe
