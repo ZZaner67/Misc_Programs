@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\zaneb\source\repos\Le Change\Le Change\Source.cpp(31,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\zaneb\source\repos\Le Change\Le Change\Source.cpp(32,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Le Change.vcxproj -> C:\Users\zaneb\source\repos\Le Change\Debug\Le Change.exe
