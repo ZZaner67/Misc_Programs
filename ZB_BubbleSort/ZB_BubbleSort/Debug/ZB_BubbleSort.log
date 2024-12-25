@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\zaneb\source\repos\ZB_BubbleSort\ZB_BubbleSort\Source.cpp(48,17): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\zaneb\source\repos\ZB_BubbleSort\ZB_BubbleSort\Source.cpp(48,17): warning C4129: 'R': unrecognized character escape sequence
+  ZB_BubbleSort.vcxproj -> C:\Users\zaneb\source\repos\ZB_BubbleSort\Debug\ZB_BubbleSort.exe
