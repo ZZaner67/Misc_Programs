@@ -1,0 +1,73 @@
+Zane Brown
+Gate #1
+Sensor Enter:  OFF
+Soft Open:  ON
+Soft Close:  OFF
+Automatic Close:  ON
+Sensor Exit:  OFF
+Intercom Keypad:  OFF
+Pin Lock:  ON
+Photo Beam:  ON
+
+If options on the first gate are toggled, value of flag would be 202
+
+Gate #2
+Sensor Enter:  OFF
+Soft Open:  OFF
+Soft Close:  ON
+Automatic Close:  OFF
+Sensor Exit:  OFF
+Intercom Keypad:  ON
+Pin Lock:  OFF
+Photo Beam:  ON
+
+If options on the first gate are toggled, value of flag would be 164
+
+Gate #3
+Sensor Enter:  ON
+Soft Open:  ON
+Soft Close:  OFF
+Automatic Close:  ON
+Sensor Exit:  ON
+Intercom Keypad:  OFF
+Pin Lock:  OFF
+Photo Beam:  ON
+
+If options on the first gate are toggled, value of flag would be 155
+
+Gate #4
+Sensor Enter:  OFF
+Soft Open:  ON
+Soft Close:  ON
+Automatic Close:  OFF
+Sensor Exit:  OFF
+Intercom Keypad:  OFF
+Pin Lock:  OFF
+Photo Beam:  OFF
+
+If options on the first gate are toggled, value of flag would be 6
+
+Gate #5
+Sensor Enter:  ON
+Soft Open:  OFF
+Soft Close:  OFF
+Automatic Close:  ON
+Sensor Exit:  ON
+Intercom Keypad:  ON
+Pin Lock:  OFF
+Photo Beam:  OFF
+
+If options on the first gate are toggled, value of flag would be 57
+
+Gate #6
+Sensor Enter:  OFF
+Soft Open:  OFF
+Soft Close:  ON
+Automatic Close:  ON
+Sensor Exit:  ON
+Intercom Keypad:  ON
+Pin Lock:  ON
+Photo Beam:  ON
+
+If options on the first gate are toggled, value of flag would be 252
+
